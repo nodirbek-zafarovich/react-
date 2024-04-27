@@ -1,0 +1,42 @@
+<svg width="190.000000" height="24.000000" viewBox="0 0 190 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_932">
+			<rect id="Frame" width="25.024391" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_935">
+			<rect id="Frame" width="25.024391" height="24.000000" transform="translate(41.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_938">
+			<rect id="Frame" width="25.024391" height="24.000000" transform="translate(82.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_941">
+			<rect id="Frame" width="25.024391" height="24.000000" transform="translate(123.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1_944">
+			<rect id="Frame" width="25.024391" height="24.000000" transform="translate(164.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Frame" width="25.024391" height="24.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_932)">
+		<path id="Vector" d="M12.58 20.04L18.58 23.7C19.75 24.43 21.07 23.41 20.78 22.09L19.17 15.21L24.58 10.53C25.6 9.65 25.02 8.04 23.7 7.9L16.68 7.31L13.9 0.87C13.31 -0.3 11.7 -0.3 11.12 0.87L8.34 7.46L1.31 8.04C-6.11e-5 8.04 -0.44 9.65 0.43 10.53L5.85 15.21L4.24 22.09C3.95 23.41 5.26 24.29 6.43 23.7L12.58 20.04Z" fill="#FFBB0C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Frame" width="25.024391" height="24.000000" transform="translate(41.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_935)">
+		<path id="Vector" d="M53.58 20.04L59.58 23.7C60.75 24.43 62.07 23.41 61.78 22.09L60.17 15.21L65.58 10.53C66.6 9.65 66.02 8.04 64.7 7.9L57.68 7.31L54.9 0.87C54.31 -0.3 52.7 -0.3 52.12 0.87L49.34 7.46L42.31 8.04C40.99 8.04 40.56 9.65 41.43 10.53L46.85 15.21L45.24 22.09C44.95 23.41 46.26 24.29 47.43 23.7L53.58 20.04Z" fill="#FFBB0C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Frame" width="25.024391" height="24.000000" transform="translate(82.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_938)">
+		<path id="Vector" d="M94.58 20.04L100.58 23.7C101.75 24.43 103.07 23.41 102.78 22.09L101.17 15.21L106.58 10.53C107.61 9.65 107.02 8.04 105.7 7.9L98.68 7.31L95.9 0.87C95.31 -0.3 93.7 -0.3 93.12 0.87L90.34 7.46L83.31 8.04C82 8.04 81.56 9.65 82.43 10.53L87.85 15.21L86.24 22.09C85.95 23.41 87.26 24.29 88.43 23.7L94.58 20.04Z" fill="#FFBB0C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Frame" width="25.024391" height="24.000000" transform="translate(123.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_941)">
+		<path id="Vector" d="M135.58 20.04L141.58 23.7C142.75 24.43 144.07 23.41 143.78 22.09L142.17 15.21L147.58 10.53C148.61 9.65 148.02 8.04 146.7 7.9L139.68 7.31L136.9 0.87C136.31 -0.3 134.7 -0.3 134.12 0.87L131.34 7.46L124.31 8.04C123 8.04 122.56 9.65 123.43 10.53L128.85 15.21L127.24 22.09C126.95 23.41 128.26 24.29 129.43 23.7L135.58 20.04Z" fill="#FFBB0C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<rect id="Frame" width="25.024391" height="24.000000" transform="translate(164.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_944)">
+		<path id="Vector" d="M176.58 20.04L182.58 23.7C183.75 24.43 185.07 23.41 184.78 22.09L183.17 15.21L188.58 10.53C189.61 9.65 189.02 8.04 187.7 7.9L180.68 7.31L177.9 0.87C177.31 -0.3 175.7 -0.3 175.12 0.87L172.34 7.46L165.31 8.04C164 8.04 163.56 9.65 164.43 10.53L169.85 15.21L168.24 22.09C167.95 23.41 169.26 24.29 170.43 23.7L176.58 20.04Z" fill="#FFBB0C" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
